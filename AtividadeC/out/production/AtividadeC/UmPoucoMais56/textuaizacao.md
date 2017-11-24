@@ -1,0 +1,1 @@
+Um array bidimencional é um vetor de vetores que podem ser ou não lineares.Se colocar um tamanho de vetor igual a zero ele apenas terá uma declaração de vetor e se colocar tamanho -1 lançará uma exerção "NegativeArraySizeException"
