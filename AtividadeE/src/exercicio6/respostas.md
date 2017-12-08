@@ -1,0 +1,2 @@
+4. a) Ha um problema pois setProducaoLeite não existe na classe pai como é um ponteiro da classe pai ele não acessará este  metodo mas fazendo um cast pode solucionar o problema.
+   b) Não é possível pois sub classes não podem ser ponteiros para superclasse

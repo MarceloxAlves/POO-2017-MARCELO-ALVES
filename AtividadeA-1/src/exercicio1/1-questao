@@ -1,0 +1,17 @@
+1- Qual a diferença entre objetos e classes? Exemplifique.
+
+Classe é a estrutura -> Objeto é a instancia dessa estrutura
+
+Por exemplo:
+
+Classe:
+
+public class Carro{
+ private Color cor;
+ private Marca marca;
+ private Modelo modelo;
+}
+
+Objeto:
+
+Carro carro  = new Carro();
